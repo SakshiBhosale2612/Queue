@@ -2,8 +2,11 @@
 Program for Queue using LinkedList in java
 
 package i1.sakshi;
+
 import java.util.Scanner;
+
 public class Queue {
+
     public static class Node{
         int data;
         Node link;
